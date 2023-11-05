@@ -16,7 +16,3 @@ streamhub-zee5live
 
 https://t.me/iptvhub89/3
 
-For More m3u stuff follow 
-
-https://t.me/iptvhub89
-
