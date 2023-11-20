@@ -3,7 +3,7 @@
 
 **channel --> &Xplor HD**
 
-demo link ---> https://streamhub7.udx.workers.dev/0-9-209/master.m3u8
+demo link ---> https://streamhub7.udx.workers.dev/0-9-209/index.m3u8
 
 ## zee5 all channels m3u file
 Click here ----> [Download Now](https://shrinkme.info/indian-iptv)
