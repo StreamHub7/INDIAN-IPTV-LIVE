@@ -1,11 +1,11 @@
-# Zee5-IPTV-LIVE
+# INDIAN-IPTV-LIVE
 
 
 **channel --> &Xplor HD**
 
 demo link ---> https://streamhub7.udx.workers.dev/0-9-209/index.m3u8
 
-## zee5 all channels m3u file
+## All channels m3u file
 Click here ----> [Download Now](https://shrinkme.info/indian-iptv)
 
 file is pasword protected
