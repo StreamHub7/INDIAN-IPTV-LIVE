@@ -6,7 +6,7 @@
 demo link ---> https://streamhub7.udx.workers.dev/0-9-209/master.m3u8
 
 ## zee5 all channels m3u file
-Click here ----> [Download Now](https://short-jambo.com/streamhub7)
+Click here ----> [Download Now](https://shrinkme.info/indian-iptv)
 
 file is pasword protected
 ```
