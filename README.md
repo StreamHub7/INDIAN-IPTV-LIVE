@@ -12,9 +12,7 @@ demo link ---> https://streamhub.udx.workers.dev/index.php?c=cineplexhd
 ## All channels m3u file
 Click here ----> [Download Now](https://shrinkme.info/indian-iptv)
 
-file is pasword protected
-```
-streamhub-zee5live
-```
+## How to download
+https://github.com/StreamHub7/Zee5-IPTV-LIVE/assets/149960064/e708d58b-0434-483d-951f-da773f1d5c87
 
 
