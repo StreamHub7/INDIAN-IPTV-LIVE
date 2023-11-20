@@ -14,5 +14,6 @@ streamhub-zee5live
 ```
 **How to download m3u file**
 
-https://t.me/iptvhub89/3
+https://t.me/iptvhub89
+
 
