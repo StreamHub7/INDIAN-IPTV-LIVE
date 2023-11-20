@@ -12,8 +12,5 @@ file is pasword protected
 ```
 streamhub-zee5live
 ```
-**How to download m3u file**
-
-https://t.me/iptvhub89
 
 
